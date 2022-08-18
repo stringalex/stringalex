@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Alex Stringer
+- I am a student at The University of Texas at Arlington
+- Pursuing my Bachelor's in Computer Science
 - Can reach me at alexstringer26@gmail.com
 
 <!---
